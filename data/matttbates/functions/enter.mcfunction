@@ -1,0 +1,1 @@
+execute if block ^ ^1 ^1 minecraft:stone run function matttbates:do_enter

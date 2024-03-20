@@ -1,0 +1,1 @@
+execute in matttbates:bag run setblock 0 3 0 minecraft:light[level=15]

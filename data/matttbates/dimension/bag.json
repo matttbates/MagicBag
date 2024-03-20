@@ -1,0 +1,20 @@
+{
+    "type": "matttbates:bag",
+    "generator": {
+        "settings": {
+            "layers": [
+                {
+                    "height": 1,
+                    "block": "minecraft:bedrock"
+                }
+            ],
+            "biome": "",
+            "lakes": false,
+            "features": false,
+            "structures": {
+
+            }
+        },
+        "type": "minecraft:flat"
+    }
+}
