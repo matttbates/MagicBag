@@ -1,0 +1,15 @@
+{
+    "name": "matttbates:bag/bag_mains",
+    "fallback": "minecraft:empty",
+    "elements": [
+        {
+            "weight": 1,
+            "element": {
+                "location": "matttbates:bag/mains/main0",
+                "processors": "minecraft:empty",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        }
+    ]
+}
