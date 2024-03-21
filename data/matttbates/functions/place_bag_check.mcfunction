@@ -1,0 +1,2 @@
+execute as @a at @s run function matttbates:locate_player
+execute as @a at @s if dimension matttbates:bag if score @s varY matches 1 if score @s varX = @s bagCoords if score @s varZ = @s bagCoords run function matttbates:place_bag

@@ -24,4 +24,4 @@ scoreboard players operation @s tpZ = @s bagCoords
 execute in matttbates:bag run tp 0 1 0
 function scoretp:tp
 
-schedule function matttbates:place_bag 5s
+schedule function matttbates:place_bag_check 2
