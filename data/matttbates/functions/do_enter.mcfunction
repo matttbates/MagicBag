@@ -24,7 +24,4 @@ scoreboard players operation @s tpZ = @s bagCoords
 execute in matttbates:bag run tp 0 1 0
 function scoretp:tp
 
-# ensure appropriate surroundings
-#execute in matttbates:bag run tp @s ~ ~1 ~
-#execute in matttbates:bag run setblock ~ ~ ~ minecraft:stone
-#execute in matttbates:bag run place template matttbates:bag/mains/main0 ~-5 ~-1 ~-5
+schedule function matttbates:place_bag 5s
