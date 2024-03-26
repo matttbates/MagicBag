@@ -1,0 +1,1 @@
+execute unless block ~ ~ ~ minecraft:white_candle run function matttbates:magic_bag/break

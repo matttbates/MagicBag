@@ -1,0 +1,1 @@
+give @s minecraft:item_frame[minecraft:custom_name='{"text":"Magic Bag"}', minecraft:custom_model_data=3110001, minecraft:entity_data={id:'minecraft:item_frame', Invulnerable:true, Invisible:true, Fixed:true, Silent:true, Facing:true, Tags:['matttbates.item_frame_block', 'matttbates.magic_bag']}] 1

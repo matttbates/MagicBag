@@ -1,5 +1,3 @@
-say do_exit
-
 # setup the teleportation function
 scoreboard players operation @s tpX = @s x
 scoreboard players operation @s tpY = @s y
