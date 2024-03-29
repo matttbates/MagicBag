@@ -1,0 +1,38 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "#E#",
+        "#G#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:leather"
+        },
+        "E": {
+            "item": "minecraft:ender_chest"
+        },
+        "G": {
+            "item": "minecraft:gold_nugget"
+        }
+    },
+    "result": {
+        "id": "minecraft:item_frame",
+        "components":{
+            "custom_name": "'Magic Bag'",
+            "custom_model_data": 3110001,
+            "entity_data": {
+                "id": "minecraft:item_frame",
+                "Invulnerable": true,
+                "Invisible": true,
+                "Fixed": true,
+                "Silent": true,
+                "Facing": true,
+                "Tags":[
+                    "matttbates.item_frame_block",
+                    "matttbates.magic_bag"
+                ]
+            }
+        }
+    }
+}
